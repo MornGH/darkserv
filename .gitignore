@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Backups temporaires
+backup/temp/
+
+# Fichiers Windows
+Thumbs.db
+Desktop.ini
+
+# Config VSCode locale
+.vscode/settings.json
